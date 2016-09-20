@@ -1,4 +1,5 @@
 # AngularRouting
+A sandbox for experimenting with angular routing and lazy loading
 
 ## Install npm packages
 
